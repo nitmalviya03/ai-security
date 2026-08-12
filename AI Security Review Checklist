@@ -1,0 +1,43 @@
+AI Security Architecture Review Checklist
+
+□ Authentication
+
+□ Authorization
+
+□ Identity Propagation
+
+□ Tool Permissions
+
+□ Service Accounts
+
+□ RAG Authorization
+
+□ Tenant Isolation
+
+□ Prompt Construction
+
+□ Prompt Injection
+
+□ Tool Injection
+
+□ MCP Security
+
+□ Model Selection
+
+□ Data Classification
+
+□ PII Protection
+
+□ Memory Isolation
+
+□ Logging
+
+□ Monitoring
+
+□ Incident Response
+
+□ Human Approval
+
+□ AI Governance
+
+□ Compliance
