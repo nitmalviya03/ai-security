@@ -12,3 +12,11 @@
 | Credentials | Are tools overprivileged?                  |
 | Audit       | Can we trace user → agent → tool → action? |
 ------------------------------------------------------------
+
+Key takeaway - 
+
+1. LLM output is untrusted input.
+2. The agent should act within the user's authority, not beyond it.
+3. Authorize the tool and its parameters/resources separately.
+4. Give agents the minimum capabilities required — Least Agency.
+5. High-impact actions should require stronger controls, often human approval
