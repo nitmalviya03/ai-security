@@ -1,0 +1,14 @@
+------------------------------------------------------------
+| Area        | Security Question                          |
+------------------------------------------------------------
+| Identity    | Who is the real user?                      |
+| Delegation  | Is user identity preserved?                |
+| Agent       | What permissions does it have?             |
+| Tools       | Which tools can it invoke?                 |
+| Parameters  | Are they validated and authorized?         |
+| Resources   | Is object-level authorization enforced?    |
+| Actions     | Which actions require approval?            |
+| Chaining    | Can actions create dangerous sequences?    |
+| Credentials | Are tools overprivileged?                  |
+| Audit       | Can we trace user → agent → tool → action? |
+------------------------------------------------------------
